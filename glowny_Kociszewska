@@ -1,0 +1,20 @@
+<html>
+	<head>
+		<meta charset="utf-8">
+	</head>
+	<body>
+		<body bgcolor=#F082CC>
+		<h1 align="center">Kociszewska, 2F, 21.01.2025</h1>
+		<marquee bgcolor="red">Kociszewska</marquee>
+		<p align="left"><font color="black" size="3" face="Times New Roman"><b>Layout</b> (interfejs strony internetowej) – element konstrukcji graficznej, w którym ustala się:
+		<ol>
+			<li> rozmieszczenie elementów (treści) na stronie.
+			<li> wygląd (kolorystykę, elementy dekoracyjne, krój czcionki)
+		</ol>
+		<b>Popularne technologie Layoutu dla stron WWW</b>
+		<ol>
+			<li> w oparciu o tabele (iframe) lub ramy (frame)
+			<li> w oparciu o DIV’y
+			<li> w oparciu o instrukcje HTML5 (nav, ……….)  </font></p>
+	</body>
+</html>
